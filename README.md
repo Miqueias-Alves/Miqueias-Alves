@@ -11,7 +11,8 @@
   <a href="https://www.instagram.com/@miqueiascoimbra/"><img src="https://img.shields.io/badge/-@miqueiascoimbra-333333?style=white&logo=instagram"/></a>
   <a href="mailto:de_miqueias@hotmail.com"><img src="https://img.shields.io/badge/-de_miqueias@hotmail.com-333333?style=white&logo=gmail"/></a>
 </p>
-### ⚡ Technologies
+
+⚡ Technologies
 
 These are some of the technologies and tools that I work with:
 
