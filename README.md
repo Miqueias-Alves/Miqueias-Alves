@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Miqueias-Alves" alt="Miqueias-ALves" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Miqueias-Alveslabel&label=Profile+View" alt="Miqueias-ALves" /></p>
 
 # Hi, I'm Miqueias Alves ;D
 
